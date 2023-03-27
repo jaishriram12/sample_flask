@@ -1,0 +1,19 @@
+{
+3    "name": "sample_flask",
+4    "version": "1.0.0",
+5    "description": "",
+     "main":"app.py",
+6    "scripts": {
+9        "start": "app.py"
+10    },
+11    "repository": {
+12        "type": "git",
+13        "url": "git+https://github.com/jaishriram12/sample_flask.git"
+14    },
+15    "author": "",
+16    "license": "ISC",
+17    "bugs": {
+18        "url": "https://github.com/jaishriram12/sample_flask/issues"
+19    },
+20    "homepage": "https://github.com/jaishriram12/sample_flask#readme"
+21}
