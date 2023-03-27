@@ -3,9 +3,7 @@
     "version": "1.0.0",
     "description": "",
     "main":"app.py",
-    "scripts": {
-        "start": "app.py"
-    },
+    
     "repository": {
         "type": "git",
         "url": "git+https://github.com/jaishriram12/sample_flask.git"
